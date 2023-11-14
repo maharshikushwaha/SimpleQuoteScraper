@@ -11,7 +11,7 @@ This is a simple Python web scraper for extracting and displaying quotes from a 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/SimpleQuoteScraper.git
+    git clone https://github.com/maharshikushwaha/SimpleQuoteScraper.git
     cd SimpleQuoteScraper
     ```
 
